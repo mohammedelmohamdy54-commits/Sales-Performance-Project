@@ -6,9 +6,9 @@
 ---
 
 ## **Dashboard Preview**
-![Main Dashboard](Screenshot%202026-05-11%20144608.png)
-![Sales Analysis](Screenshot%202026-05-11%20144643.png)
-![Geographic Insights](Screenshot%202026-05-11%20144739.png)
+![Main Dashboard](P1.png)
+![Sales Analysis](P2.png)
+![Geographic Insights](P3.png)
 
 ---
 
@@ -17,4 +17,3 @@
 * **DAX (Data Analysis Expressions):** إنشاء مقاييس متقدمة لحساب المقارنات بين الأداء الفعلي والمستهدف (Target vs. Actual).
 * **Data Visualization:** استخدام الرسوم البيانية الأنسب (Gauges, Area Charts, Map Visuals).
 * **Power Query:** تنظيف ومعالجة البيانات لضمان دقة التقارير.
-
